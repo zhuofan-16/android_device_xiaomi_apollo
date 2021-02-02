@@ -61,7 +61,7 @@ PRODUCT_COPY_FILES += \
 
 # Xiaomi parts
 PRODUCT_PACKAGES += \
-    XiaomiParts
+    ApolloParts
 
 # Permissions
 PRODUCT_COPY_FILES += \
