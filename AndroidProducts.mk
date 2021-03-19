@@ -5,9 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fluid_apollo.mk
+    $(LOCAL_DIR)/dot_apollo.mk
 
-COMMON_LUNCH_CHOICES := \
-    fluid_apollo-user \
-    fluid_apollo-userdebug \
-    fluid_apollo-eng
